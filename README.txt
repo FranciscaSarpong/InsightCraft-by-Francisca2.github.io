@@ -94,6 +94,23 @@
 										<li><a href="#" class="button">View Project</a></li>
 									</ul>
 								</article>
+
+								<!-- Posts -->
+							<section class="posts">
+								<article>
+									<header>
+										
+										<h2><a href="https://preview--web-journey-beginners-guide.lovable.app">Guest House Website <br />
+										</a></h2>
+									</header>
+									<a href="https://preview--web-journey-beginners-guide.lovable.app" class="image fit"><img src="Guest House.jpg" alt="" /></a>
+									<p>Building a modern, responsive website using Lovable AI's design engine.This project explores how AI tools can accelerate web creation, from layout while allowing custom edits and creativity</p>
+									<ul class="actions special">
+										<li><a href="https://preview--web-journey-beginners-guide.lovable.app" class="button">View Project</a></li>
+									</ul>
+								</article>
+								<article>
+
 					
 						<section class="split contact">
 							<section class="alt">
