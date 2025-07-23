@@ -21,7 +21,9 @@
 					<div id="intro">
 						<h1>Insight Craft Portfolio by Francisca <br />
 						</h1>
-						<p>Where Business meets data and Stories meet Strategy. Crafting insights that drive decisons. Business Analyst. Problem Solver. Stoyteller. Skilled in Python, SQL and PowerBI <a href="https://www.linkedin.com/in/francisca-sarpong-01a3421bb">@Francisca Sarpong</a>
+						<p>Where Business meets data and Stories meet Strategy. 
+							Crafting insights that drive decisons.
+							 Business Analyst. Problem Solver. Storyteller. Skilled in Python, SQL and PowerBI <a href="https://www.linkedin.com/in/francisca-sarpong-01a3421bb">@Francisca Sarpong</a>
 						
 						<ul class="actions">
 							<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
@@ -62,7 +64,6 @@
 									<li><a href="https://github.com/FranciscaSarpong/Superstore_Sales_Dashboard" class="button large">View Project</a></li>
 								</ul>
 							</article>
-
 						<!-- Posts -->
 							<section class="posts">
 								<article>
@@ -78,13 +79,7 @@
 									</ul>
 								</article>
 								<article>
-
-
-
-
-									
 									<header>
-										
 										<h2><a href="#">Antenatal Risk Predictor<br />
 										</a></h2>
 									</header>
@@ -94,12 +89,9 @@
 										<li><a href="#" class="button">View Project</a></li>
 									</ul>
 								</article>
-
-								<!-- Posts -->
-							<section class="posts">
+								</article>
 								<article>
 									<header>
-										
 										<h2><a href="https://preview--web-journey-beginners-guide.lovable.app">Guest House Website <br />
 										</a></h2>
 									</header>
@@ -110,7 +102,21 @@
 									</ul>
 								</article>
 								<article>
+									<header>
+										<h2><a href="https://insightcraft-assignments-aw228v9nvgdxlxz3hgtvhq.streamlit.app/">Student exams score performance prediction <br />
+										</a></h2>
+									</header>
+									<a href="https://insightcraft-assignments-aw228v9nvgdxlxz3hgtvhq.streamlit.app/" class="image fit"><img src="student_performance.png" alt="" /></a>
+									<p>This project explores how a students Demographic factors and learning environment influence their Academic performance using a datset from Kaggle. I performed EDA and built a logistic Regression model to predict whether a student would pass math,reading or writing based on inputs like Gender, Parents level of education and lunch type. With an Accuracy of 0.69, Precision of 0.83, Recall of 0.68 and F1-Score of 0.75. </p> Tools used: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn,Streamlit
+									 </p> Techniques: Exploratory Data Analysis, Data Visualization, Logistic Regression, Feature Enginerring</p>
+									<ul class="actions special">
+										<li><a href="https://insightcraft-assignments-aw228v9nvgdxlxz3hgtvhq.streamlit.app/" class="button">View Project</a></li>
+									</ul>
+								</article>
 
+
+
+								
 					
 						<section class="split contact">
 							<section class="alt">
