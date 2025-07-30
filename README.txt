@@ -1,163 +1,56 @@
-<!DOCTYPE HTML>
-<!--
-	Insight Craft Portfolio by Francisca
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
-<html>
-	<head>
-		<title>Insight Craft Portfolio by Francisca </title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
-	</head>
-	<body class="is-preload">
+# Francisca's Data Analytics Portfolio
 
-		<!-- Wrapper -->
-			<div id="wrapper" class="fade-in">
+Welcome to my personal data science and analytics portfolio! This website showcases a collection of real-world and academic projects demonstrating my skills in:
 
-				<!-- Intro -->
-					<div id="intro">
-						<h1>Insight Craft Portfolio by Francisca <br />
-						</h1>
-						<p>Where Business meets data and Stories meet Strategy. 
-							Crafting insights that drive decisons.
-							 Business Analyst. Problem Solver. Storyteller. Skilled in Python, SQL and PowerBI <a href="https://www.linkedin.com/in/francisca-sarpong-01a3421bb">@Francisca Sarpong</a>
-						
-						<ul class="actions">
-							<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
-						</ul>
-					</div>
+- 📊 Data Analysis & Visualization  
+- 🤖 Machine Learning  
+- 📈 Business Intelligence  
+- 💻 Python Programming  
+- 📂 Streamlit App Development  
 
-				<!-- Header -->
-					<header id="header">
-						<a href="index.html" class="logo">Insight Craft Portfolio By Francisca</a>
-					</header>
+---
 
-				<!-- Nav -->
-					<nav id="nav">
-						<ul class="links">
-							<li class="active"><a href="index.html">Projects</a></li>
-							
-						</ul>
-						<ul class="icons">
-							<li><a href="https://www.linkedin.com/in/francisca-sarpong-01a3421bb" class="icon brands alt fa-linkedin"><span class="label">linkedin</span></a></li>
-							<li><a href="https://github.com/FranciscaSarpong" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
-					</nav>
+## Featured Projects
 
-				<!-- Main -->
-					<div id="main">
+### 1. **Retail Analytics Dashboard: Sales Performance and Logistical Trends**
+An interactive PowerBI dashbaord built with sales data from Kaggle to analyse retail sales, shipping efficiency and product returns. 
 
-						<!-- Featured Post -->
-							<article class="post featured">
-								<header class="major">
-									
-									<h2><a href="https://github.com/FranciscaSarpong/Superstore_Sales_Dashboard">Retail Analytics Dashboard: Sales Performamnce & Logistics Trends<br />
-									</a></h2> PowerBI|Data Modelling|DAX|Business Intelligence
-									<p>An Interactive Power BI dashbaord built with the Superstore dataset from Kaggle to analyse retail sales,Shipping efficiency, and product returns.<br />
-									It includes custom DAX metrics, Delivery insights, and performance KPI's across regions, customers and product categories.<br />
-									It is Designed to suppoert-data-driven decision-making in retail and logistics opperations.</p>
-								</header>
-								<a href="https://github.com/FranciscaSarpong/Superstore_Sales_Dashboard" class="image main"><img src="Sales_Dashboard.png" alt="" /></a>
-								<ul class="actions special">
-									<li><a href="https://github.com/FranciscaSarpong/Superstore_Sales_Dashboard" class="button large">View Project</a></li>
-								</ul>
-							</article>
-						<!-- Posts -->
-							<section class="posts">
-								<article>
-									<header>
-										
-										<h2><a href="https://github.com/FranciscaSarpong/Francisca-s_InsightCraft/blob/main/Descriptive%20Analysis%20with%20Diabetes%20Dataset.ipynb">Descriptive Analysis on Diabetes Dataset <br />
-										</a></h2>Jupiter| Pandas| NumPy| Matplotlib| Seaborn
-									</header>
-									<a href="https://github.com/FranciscaSarpong/Francisca-s_InsightCraft/blob/main/Descriptive%20Analysis%20with%20Diabetes%20Dataset.ipynb" class="image fit"><img src="Descriptive Stats.jpg" alt="" /></a>
-									<p>A clean, focused exploration of Diabetes Risk factors using python. This notebook breaks down trend in Glucose,BMI, Age and more backed by visuals and clear commentary.</p>
-									<ul class="actions special">
-										<li><a href="https://github.com/FranciscaSarpong/Francisca-s_InsightCraft/blob/main/Descriptive%20Analysis%20with%20Diabetes%20Dataset.ipynb" class="button">View Project</a></li>
-									</ul>
-								</article>
-								<article>
-									<header>
-										<h2><a href="#">Antenatal Risk Predictor<br />
-										</a></h2>
-									</header>
-									<a href="#" class="image fit"><img src="Antenatal_Risk_Prediction.jpg" alt="" /></a>
-									<p>Used Machine Learning Models to predict Anatenatal Risk using Maternal Factors. Every woman desearves a safer preganancy journey. </p>
-									<ul class="actions special">
-										<li><a href="#" class="button">View Project</a></li>
-									</ul>
-								</article>
-								</article>
-								<article>
-									<header>
-										<h2><a href="https://preview--web-journey-beginners-guide.lovable.app">Guest House Website <br />
-										</a></h2>
-									</header>
-									<a href="https://preview--web-journey-beginners-guide.lovable.app" class="image fit"><img src="Guest House.jpg" alt="" /></a>
-									<p>Building a modern, responsive website using Lovable AI's design engine.This project explores how AI tools can accelerate web creation, from layout while allowing custom edits and creativity</p>
-									<ul class="actions special">
-										<li><a href="https://preview--web-journey-beginners-guide.lovable.app" class="button">View Project</a></li>
-									</ul>
-								</article>
-								<article>
-									<header>
-										<h2><a href="https://insightcraft-assignments-aw228v9nvgdxlxz3hgtvhq.streamlit.app/">Student exams score performance prediction <br />
-										</a></h2>
-									</header>
-									<a href="https://insightcraft-assignments-aw228v9nvgdxlxz3hgtvhq.streamlit.app/" class="image fit"><img src="student_performance.png" alt="" /></a>
-									<p>This project explores how a students Demographic factors and learning environment influence their Academic performance using a datset from Kaggle. I performed EDA and built a logistic Regression model to predict whether a student would pass math,reading or writing based on inputs like Gender, Parents level of education and lunch type. With an Accuracy of 0.69, Precision of 0.83, Recall of 0.68 and F1-Score of 0.75. </p> Tools used: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn,Streamlit
-									 </p> Techniques: Exploratory Data Analysis, Data Visualization, Logistic Regression, Feature Enginerring</p>
-									<ul class="actions special">
-										<li><a href="https://insightcraft-assignments-aw228v9nvgdxlxz3hgtvhq.streamlit.app/" class="button">View Project</a></li>
-									</ul>
-								</article>
+### 2. ** Descriptive Analysis on DIabetes Dataset**
+A clean, focused exploration of Diabetes Risk factors using python. This notebook breaks down trend in Glucose,BMI, Age and more backed by visuals and clear commentary
 
+### 3. **Anatenatal Risk Prediction using Maternal Factors**
+Used Machine Learning Models to predict Antenatal Risk using Maternal Factors. Every woman desearves a safer preganancy journey. Project still in presgress........
 
+### 4. **Guest House Website**
+Building a modern, responsive website using Lovable AI's design engine.This project explores how AI tools can accelerate web creation, from layout while allowing custom edits and creativity
 
-								
-					
-						<section class="split contact">
-							<section class="alt">
-								<h3>Address</h3>
-								<p>Akosombo-Ghana<br />
-								EA-0377-1840</p>
-							</section>
-							<section>
-								<h3>Phone</h3>
-								<p><a href="#">(233) 205052972 </a></p>
-							</section>
-							<section>
-								<h3>Email</h3>
-								<p><a href="#">franciscamanusarpong@gmail.com</a></p>
-							</section>
-							<section>
-								<h3>Social</h3>
-								<ul class="icons alt">
-								
-									<li><a href="https://www.linkedin.com/in/francisca-sarpong-01a3421bb" class="icon brands alt fa-linkedin"><span class="label">linkedin</span></a></li>
-									<li><a href="https://github.com/FranciscaSarpong" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
-								</ul>
-							</section>
-						</section>
-					</footer>
+### 5. **Students Performance Tracking**
+This project explores how a students Demographic factors and learning environment influence their Academic performance using a datset from Kaggle. I performed EDA and built a logistic Regression model to predict whether a student would pass math,reading or writing based on inputs like Gender, Parents level of education and lunch type. With an Accuracy of 0.69, Precision of 0.83, Recall of 0.68 and F1-Score of 0.75. 
 
-				<!-- Copyright -->
-					<div id="copyright">
-						<ul><li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>
-					</div>
+### 6. **Loan Default Prediction Web App**
 
-			</div>
+A full machine learning pipeline app built in Streamlit to predict loan default risk using Ridge Regression. Includes preprocessing, feature selection, model evaluation, and interactive prediction.  
+[🔗 Live App](https://kftalde5ypwd5a3qqejuvo.streamlit.app) 
 
-		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.scrollex.min.js"></script>
-			<script src="assets/js/jquery.scrolly.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
+_(More projects will be added soon...)_
 
-	</body>
-</html>
+---
+
+## Tech Stack
+- Python (pandas, scikit-learn, matplotlib, seaborn)
+- Streamlit
+- Power BI / Excel (for BI dashboards)
+- Git & GitHub
+
+---
+
+## About Me
+
+I’m Francisca Manu Sarpong, currently pursuing an MSc in Business Analytics at the University of Ghana. I enjoy solving problems using data and building practical tools that support better decision-making.
+
+---
+
+##  Connect With Me
+
+- [Email](franciscamanusarpong@gmail.com)
+
